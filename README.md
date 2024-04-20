@@ -2,7 +2,7 @@
 
 https://github.com/Loloopsmybad/posture-detection-/assets/93466068/18cd7925-3fe9-4c58-9745-0c83ff1052b9
 
-#requirments !! install these before use !!
+# requirments !! install these before use !!
 opencv-python <= 3.7.9
 mediapipe
 opencv
