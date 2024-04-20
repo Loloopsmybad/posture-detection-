@@ -1,6 +1,11 @@
+#requirments !! install these before use !!
+opencv-python <= 3.7.9
+mediapipe
+opencv
+
+
 # posture-detection-
 checks for bad posture 
-
 
 uses mediapipe model for pose estimation and detection 
 
