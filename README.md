@@ -11,7 +11,7 @@ the programs picks up the landmarks detected from the model and draws tangent fr
 
 if slope is not in the desired range --> wrong posture 
 
-if posture is in the desired range --> corrct posture 
+if posture is in the desired range --> correct posture 
 
 
 
